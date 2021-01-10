@@ -19,6 +19,15 @@ I'm Ajay Bairwa, pursuing Electrical Engg. from <b>Chartered Institute of Techno
 <a href="https://www.facebook.com/ajay.bairwa11/" target="_blank">
   <img align="left" alt="Ajay's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
+
+**Github Stats:**
+<p align="center">
+  
+  <img width="80%" src="https://github-readme-stats.vercel.app/api?username=bairwa25&show_icons=true&theme=dracula&count_private=true" />
+  </p>
+  <p align = "center"><img width="30%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bairwa25&theme=dracula" />
+
+</p>
 <!--
 **bairwa25/bairwa25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
