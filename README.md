@@ -4,19 +4,19 @@ I'm Ajay Bairwa, pursuing Electrical Engg. from <b>Chartered Institute of Techno
 
 ## Connect with Me 🤝
 
-<a href="https://twitter.com/bairwaa25">
+<a href="https://twitter.com/bairwaa25" target=_blank>
   <img align="left" alt="Ajay's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
-<a href="https://www.linkedin.com/in/ajay-bairwa/">
+<a href="https://www.linkedin.com/in/ajay-bairwa/" target=_blank>
   <img align="left" alt="Ajay's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="https://github.com/bairwa25">
+<a href="https://github.com/bairwa25" target=_blank>
   <img align="left" alt="Ajay's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
-<a href="https://instagram.com/_.bairwa._/">
+<a href="https://instagram.com/_.bairwa._/" target=_blank>
   <img align="left" alt="Ajay's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
-<a href="https://www.facebook.com/ajay.bairwa11/">
+<a href="https://www.facebook.com/ajay.bairwa11/" target=_blank>
   <img align="left" alt="Ajay's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
 <!--
